@@ -27,3 +27,8 @@ p {
   color: white;
 }
  #Brettspiel {border: 3px solid blue;}
+#footer {
+  text-align: right;
+  color: gray;
+  font-size: 21px;
+}
